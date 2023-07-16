@@ -1,0 +1,102 @@
+body{
+  background: rgb(65, 37, 1);
+}
+#heading{
+  
+  margin: auto;
+  color: red;
+  text-align: center;
+}
+#title{
+  color: red;
+  display: flex;
+  margin:auto;
+  width: 650px;
+  justify-content: space-between;
+  margin-top: 50px;
+
+}
+#container{
+  border: 10px solid red;
+  height: 200px;
+  width: 800px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  border-style: ridge;
+ 
+}
+#circle{
+
+  height: 25px;
+  width: 25px;
+  background:black;
+  display: flex;
+  border-radius: 50%;
+  border:2px solid whitesmoke;
+  margin-top: 50%;
+  margin-left: 50px;
+  margin-right: -45px;
+
+}
+#circle1{
+
+  height: 25px;
+  width: 25px;
+  background:black;
+  display: flex;
+  border-radius: 50%;
+  border:2px solid whitesmoke;
+  margin-top: 50%;
+  margin-right: 50px;
+  margin-left: -45px;
+}
+#player1
+{
+     display:flex;
+}
+#player2{
+  display:flex;
+  
+}
+.Score
+{
+  color: red;
+  display: flex;
+  margin-top: 10%;
+  font-size: xx-large;
+
+}
+#heading1{
+  
+  margin: auto;
+  width: fit-content;
+  color: black;
+  text-align: center;
+  
+  background: red;
+}
+.s{
+  display: flex;
+  width:600px;
+  justify-content: space-between;
+  margin: auto;
+ 
+}
+#tt{
+  height: 50px;
+  width:70px;
+  margin-left: 30%;
+  background: red;
+  border-radius: 70%;
+  border:2px solid rgb(245, 245, 245);
+}
+#k{
+  height: 50px;
+  width:70px;
+  margin-right: 30%;
+  background: red;
+  border-radius: 70%;
+  border:2px solid rgb(245, 245, 245);
+
+}
